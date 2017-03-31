@@ -2374,6 +2374,14 @@ h4 {
 	background-color: white;
 	padding: 10px;
 }
+ .region-login-left h2 {
+	 font-size: 1.5em;
+	letter-spacing: .15em;
+	font-family: 'Droid Sans';
+	font-weight: bold;
+	color: #841617;
+	text-align: center;
+ }
 
 
 
