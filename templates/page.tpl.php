@@ -103,7 +103,7 @@
 	<?php endif; ?>
 	
 
-	 <div class="col-md-5 col-sm-3 col-xs-4">
+	 <div class="col-md-5 col-sm-12 col-xs-12">
                 <div class="login-area">
                     <div class="col-md-7 col-sm-12 col-xs-12">
                       <?php if (!empty($page['login-left'])): ?>
